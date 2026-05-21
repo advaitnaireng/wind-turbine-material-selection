@@ -87,7 +87,7 @@ Open `Research.Rmd` in RStudio and knit the file, or run the R script:
 Rscript wind_turbine_material_selection.R
 ```
 
-##Project Summary
+## Project Summary
 
 This project demonstrates how data analysis can support engineering decisions. The final result shows that the "best" material depends on the design priority: carbon composite is strongest for performance, while fiberglass composite becomes more attractive when cost is weighted more heavily.
 
